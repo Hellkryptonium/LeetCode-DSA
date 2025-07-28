@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
