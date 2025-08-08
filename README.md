@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0015-3sum) |
 | [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0135-candy) |
 ## Greedy
@@ -41,10 +42,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
