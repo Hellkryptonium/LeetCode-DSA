@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0383-ransom-note) |
 ## Math
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0383-ransom-note) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
