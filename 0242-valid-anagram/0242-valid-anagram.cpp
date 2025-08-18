@@ -3,13 +3,12 @@ public:
     bool isAnagram(string s, string t) {
         if(s.length() != t.length()) return false;
 
-        int freq[26] = {0};
+        unordered_map<char, int> freq;
 
-        for(char c : s) freq[c - 'a']++;
-        for(char c : t) freq[c - 'a']--;
-
-        for(int i=0; i<26; i++) {
-            if (freq[i] != 0) return false;
+        for(char c : s) freq[c]++;
+        for(char c : t) freq[c]--;
+        for(pair<const char, int> &p : freq) {
+            if(p.second != 0) return false;
         }
         return true;
     }
