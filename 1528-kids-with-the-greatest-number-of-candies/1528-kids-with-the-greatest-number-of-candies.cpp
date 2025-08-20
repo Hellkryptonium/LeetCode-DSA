@@ -1,7 +1,12 @@
 class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
-        int maxCandies = *max_element(candies.begin(), candies.end());
+        int maxCandies = candies[0];
+        for(int i=0; i<candies.size(); i++) {
+            if(candies[i] > maxCandies) {
+                maxCandies = candies[i];
+            }
+        }
         vector<bool> result;
 
         for(int candy : candies) {
