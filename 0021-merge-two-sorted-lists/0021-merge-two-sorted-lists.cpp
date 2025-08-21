@@ -11,16 +11,21 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* head1, ListNode* head2) {
-        if(head1 == NULL || head2 == NULL) {
-            return head1 == NULL ? head2 : head1;
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+
+        while(head1 && head2) {
+            if(head1->val <= head2->val) {
+                tail->next = head1;
+                head1 = head1->next;
+            } else {
+                tail->next = head2;
+                head2 = head2->next;
+            }
+            tail = tail->next;
         }
-        //case1
-        if(head1->val <= head2->val) {
-            head1->next = mergeTwoLists(head1->next, head2);
-            return head1;
-        } else { //case2
-            head2->next = mergeTwoLists(head1, head2->next);
-            return head2;
-        }
+        tail->next = head1 ? head1 : head2;
+
+        return dummy.next;
     }
 };
