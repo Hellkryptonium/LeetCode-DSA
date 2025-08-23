@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
