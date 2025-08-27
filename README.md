@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
