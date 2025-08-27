@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2383-add-two-integers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2383-add-two-integers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
