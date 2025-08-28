@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0135-candy) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
