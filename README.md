@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
 | ------- |
