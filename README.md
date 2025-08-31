@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2383-add-two-integers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2383-add-two-integers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0228-summary-ranges) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
