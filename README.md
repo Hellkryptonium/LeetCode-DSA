@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0058-length-of-last-word) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
