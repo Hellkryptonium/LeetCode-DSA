@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2102-find-the-middle-index-in-array) |
 ## Counting
 |  |
 | ------- |
