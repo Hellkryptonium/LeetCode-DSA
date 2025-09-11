@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Counting
