@@ -1,24 +1,26 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-        if(word1.length() != word2.length()) return false;
+        int m = word1.size();
+        int n = word2.size();
+        if(m != n) return false;
 
-        unordered_map<char, int> freq1, freq2;
+        vector<int> freq1(26,0);
+        vector<int> freq2(26,0);
 
-        for(char c : word1) freq1[c]++;
-        for(char c : word2) freq2[c]++;
+        for(int i=0; i<m; i++) {
+            freq1[word1[i]-'a']++;
+            freq2[word2[i]-'a']++;
+        }
 
-        unordered_set<char> set1, set2;
-        for(auto &p : freq1) set1.insert(p.first);
-        for(auto &p : freq2) set2.insert(p.first);
-        if(set1 != set2) return false;
+        for(int i=0; i<26; i++) {
+            if(freq1[i] != 0 && freq2[i] != 0 || freq1[i] == 0 && freq2[i] == 0) continue;
+            return false;
+        }
 
-        vector<int> counts1, counts2;
-        for(auto &p : freq1) counts1.push_back(p.second);
-        for(auto &p : freq2) counts2.push_back(p.second);
-        sort(counts1.begin(), counts1.end());
-        sort(counts2.begin(), counts2.end());
+        sort(freq1.begin(), freq1.end());
+        sort(freq2.begin(), freq2.end());
 
-        return counts1 == counts2;
+        return freq1 == freq2;
     }
 };
