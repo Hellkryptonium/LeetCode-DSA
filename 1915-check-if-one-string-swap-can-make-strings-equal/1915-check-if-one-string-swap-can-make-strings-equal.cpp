@@ -13,7 +13,9 @@ public:
 
         if(diff.size() != 2) return false;
 
-        return s1[diff[0]] == s2[diff[1]] && s1[diff[1]] == s2[diff[0]];
+        swap(s2[diff[0]], s2[diff[1]]);
+
+        return s1 == s2;
         
     }
 };
