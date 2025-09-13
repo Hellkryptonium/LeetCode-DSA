@@ -8,9 +8,12 @@ public:
 
         unordered_set<int> counts;
         for(auto& it : freq) {
-            counts.insert(it.second);
+            int freq = it.second;
+            if(counts.find(freq) != counts.end()) {
+                return false;
+            }
+            counts.insert(freq);
         }
-
-        return freq.size() == counts.size();
+        return true;
     }
 };
