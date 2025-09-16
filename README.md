@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
