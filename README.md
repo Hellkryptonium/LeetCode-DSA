@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2235-capitalize-the-title](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2235-capitalize-the-title) |
+| [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0224-basic-calculator) |
+| [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
