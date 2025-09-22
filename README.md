@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Stack
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0969-number-of-recent-calls) |
 ## Divide and Conquer
