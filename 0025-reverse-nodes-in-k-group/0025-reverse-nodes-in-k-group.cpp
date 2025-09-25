@@ -13,30 +13,24 @@ public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         ListNode* temp = head;
         int cnt = 0;
-        //check if k nodes exists
         while(cnt < k) {
-            if(temp == NULL) {
-                return head;
-            }
-            temp = temp->next;
+            if(temp == NULL) return head;
+            temp=temp->next;
             cnt++;
         }
 
-        //recursively call for the rest of LL
         ListNode* prevNode = reverseKGroup(temp, k);
 
-        //reverse current group
         temp = head; cnt = 0;
-        while(cnt < k) {
+
+        while(cnt<k) {
             ListNode* next = temp->next;
             temp->next = prevNode;
-
             prevNode = temp;
             temp = next;
 
             cnt++;
         }
-
         return prevNode;
     }
 };
