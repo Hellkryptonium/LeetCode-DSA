@@ -13,12 +13,19 @@ class Solution {
 public:
     void getLeaves(TreeNode* root, vector<int>& leaves) {
         if(!root) return;
-        if(!root->left && !root->right) {
-            leaves.push_back(root->val);
-            return;
+        stack<TreeNode*> st;
+        st.push(root);
+
+        while(!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+
+            if(!node->left && !node->right) {
+                leaves.push_back(node->val);
+            }
+            if(node->right) st.push(node->right);
+            if(node->left) st.push(node->left);
         }
-        getLeaves(root->left, leaves);
-        getLeaves(root->right, leaves);
     }
 
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
