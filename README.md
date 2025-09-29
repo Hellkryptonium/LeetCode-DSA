@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
@@ -337,15 +338,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
