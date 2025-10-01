@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
