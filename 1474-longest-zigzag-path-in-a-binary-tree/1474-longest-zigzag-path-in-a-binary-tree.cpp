@@ -11,26 +11,28 @@
  */
 class Solution {
 public:
-    int maxZigZag = 0;
-
-    void dfs(TreeNode* node, bool isLeft, int length) {
-        if(!node) return;
-
-        maxZigZag = max(maxZigZag, length);
-
-        if(isLeft) {
-            dfs(node->left, false, length+1);
-            dfs(node->right, true, 1);
-        } else {
-            dfs(node->right, true, length+1);
-            dfs(node->left, false, 1);
-        }
-    }
-
     int longestZigZag(TreeNode* root) {
         if(!root) return 0;
-        dfs(root->left, false, 1);
-        dfs(root->right, true, 1);
+        int maxZigZag = 0;
+        stack<tuple<TreeNode*, bool, int>> st;
+
+        if(root->left) st.push({root->left, true, 1});
+        if(root->right) st.push({root->right, false, 1});
+
+        while(!st.empty()) {
+            auto [node, isLeft, length] = st.top();
+            st.pop();
+            
+            maxZigZag = max(maxZigZag, length);
+
+            if(isLeft) {
+                if(node->right) st.push({node->right, false, length+1});
+                if(node->left) st.push({node->left, true, 1});
+            } else {
+                if(node->left) st.push({node->left, true, length+1});
+                if(node->right) st.push({node->right, false, 1});
+            }
+        }
         return maxZigZag;
     }
 };
