@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0437-path-sum-iii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
