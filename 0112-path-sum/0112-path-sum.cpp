@@ -14,20 +14,20 @@ public:
     bool hasPathSum(TreeNode* root, int targetSum) {
         if(!root) return false;
  
-        stack<pair<TreeNode*, int>> st;
-        st.push({root, targetSum-root->val});
+        queue<pair<TreeNode*, int>> q;
+        q.push({root, targetSum-root->val});
 
-        while(!st.empty()) {
-            auto[node, currSum] = st.top();
-            st.pop();
+        while(!q.empty()) {
+            auto[node, currSum] = q.front();
+            q.pop();
 
             if(!node->left && !node->right && currSum == 0) {
                 return true;
             }
 
-            if(node->left) st.push({node->left, currSum-node->left->val});
+            if(node->left) q.push({node->left, currSum-node->left->val});
 
-            if(node->right) st.push({node->right, currSum-node->right->val});
+            if(node->right) q.push({node->right, currSum-node->right->val});
         }
         return false;
     }
