@@ -10,18 +10,25 @@
  * };
  */
 class Solution {
-private:
-    int dfs(TreeNode* node, int currentSum) {
-        if(!node) return 0;
-
-        currentSum = currentSum * 10 + node->val;
-
-        if(!node->left && !node->right) return currentSum;
-
-        return dfs(node->left, currentSum) + dfs(node->right, currentSum);
-    }
 public:
     int sumNumbers(TreeNode* root) {
-        return dfs(root, 0);
+        if(!root) return 0;
+
+        int totalSum = 0;
+        stack<pair<TreeNode*, int>> st;
+        st.push({root, root->val});
+
+        while(!st.empty()) {
+            auto[node, currentSum] = st.top();
+            st.pop();
+
+            if(!node->left && !node->right) {
+                totalSum += currentSum;
+            }
+
+            if(node->left) st.push({node->left, currentSum*10 + node->left->val});
+            if(node->right) st.push({node->right, currentSum*10 + node->right->val});
+        }
+        return totalSum;
     }
 };
