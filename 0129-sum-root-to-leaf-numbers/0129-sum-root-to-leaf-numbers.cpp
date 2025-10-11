@@ -15,19 +15,19 @@ public:
         if(!root) return 0;
 
         int totalSum = 0;
-        stack<pair<TreeNode*, int>> st;
-        st.push({root, root->val});
+        queue<pair<TreeNode*, int>> q;
+        q.push({root, root->val});
 
-        while(!st.empty()) {
-            auto[node, currentSum] = st.top();
-            st.pop();
+        while(!q.empty()) {
+            auto[node, currentSum] = q.front();
+            q.pop();
 
             if(!node->left && !node->right) {
                 totalSum += currentSum;
             }
 
-            if(node->left) st.push({node->left, currentSum*10 + node->left->val});
-            if(node->right) st.push({node->right, currentSum*10 + node->right->val});
+            if(node->left) q.push({node->left, currentSum*10 + node->left->val});
+            if(node->right) q.push({node->right, currentSum*10 + node->right->val});
         }
         return totalSum;
     }
