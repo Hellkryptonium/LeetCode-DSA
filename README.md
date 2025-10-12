@@ -420,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
