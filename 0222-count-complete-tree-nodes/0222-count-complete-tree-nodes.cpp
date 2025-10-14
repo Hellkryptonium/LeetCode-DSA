@@ -13,6 +13,18 @@ class Solution {
 public:
     int countNodes(TreeNode* root) {
         if(!root) return 0;
-        return 1 + countNodes(root->left) + countNodes(root->right);
+        stack<TreeNode*> st;
+        int count = 0;
+        st.push(root);
+
+        while(!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+            count++;
+
+            if(node->left) st.push(node->left);
+            if(node->right) st.push(node->right);
+        }
+        return count;
     }
 };
