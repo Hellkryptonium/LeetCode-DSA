@@ -15,10 +15,9 @@ public:
 
         ListNode* prev = NULL;
         ListNode* curr = head;
-        ListNode* next = NULL;
 
-        while(curr != NULL) {
-            next = curr->next;
+        while(curr) {
+            ListNode* next = curr->next;
             curr->next = prev;
 
             prev = curr;
