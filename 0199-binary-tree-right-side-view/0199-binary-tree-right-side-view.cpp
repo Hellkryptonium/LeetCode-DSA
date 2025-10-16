@@ -10,20 +10,25 @@
  * };
  */
 class Solution {
-private:
-    void dfs(TreeNode* node, int level, vector<int>& result) {
-        if(!node) return;
-
-        if(level == result.size()) {
-            result.push_back(node->val);
-        }
-        if(node->right) dfs(node->right, level+1, result);
-        if(node->left) dfs(node->left, level+1, result);
-    }
 public:
     vector<int> rightSideView(TreeNode* root) {
+        if(!root) return {};
         vector<int> result;
-        dfs(root, 0, result);
+        stack<pair<TreeNode*, int>> st;
+        st.push({root, 0});
+
+        while(!st.empty()) {
+            auto[node, level] = st.top();
+            st.pop();
+
+            if(level == result.size()) {
+                result.push_back(node->val);
+            }
+
+            if(node->left) st.push({node->left, level+1});
+            if(node->right) st.push({node->right, level+1});
+        }
+
         return result;
     }
 };
