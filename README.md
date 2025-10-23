@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Search Tree
 |  |
