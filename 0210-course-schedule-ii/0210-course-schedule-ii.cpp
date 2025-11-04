@@ -2,39 +2,39 @@ class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses, 0);
-
         for(auto& pre : prerequisites) {
-            int course = pre[0];
-            int prereq = pre[1];
-            adj[prereq].push_back(course);
-            indegree[course]++;
+            adj[pre[1]].push_back(pre[0]);
         }
 
-        queue<int> q;
-        for(int i=0; i<numCourses; i++) {
-            if(indegree[i] == 0) {
-                q.push(i);
-            }
-        }
-
+        vector<int> visited(numCourses, 0);
         vector<int> order;
-        while(!q.empty()) {
-            int curr = q.front();
-            q.pop();
-            order.push_back(curr);
+        bool hasCycle = false;
 
-            for(int next : adj[curr]) {
-                indegree[next]--;
-                if(indegree[next] == 0) {
-                    q.push(next);
+        function<void(int)> dfs = [&](int node) {
+            if(hasCycle) return;
+            visited[node] = 1;
+
+            for(int next : adj[node]) {
+                if(visited[next] == 0) {
+                    dfs(next);
+                } else if(visited[next] == 1) {
+                    hasCycle = true;
                 }
             }
+
+            visited[node] = 2;
+            order.push_back(node);
+        };
+
+        for(int i=0; i<numCourses; i++) {
+            if(visited[i] == 0) {
+                dfs(i);
+            }
         }
-        if(order.size() == numCourses) {
-            return order;
-        } else {
-            return {};
-        }
+
+        if(hasCycle) return {};
+        reverse(order.begin(), order.end());
+
+        return order;
     }
 };
