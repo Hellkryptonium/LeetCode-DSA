@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
+| [2050-count-good-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2383-add-two-integers) |
 | [2621-find-xor-beauty-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2621-find-xor-beauty-of-array) |
 ## String
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 ## Union Find
 |  |
 | ------- |
