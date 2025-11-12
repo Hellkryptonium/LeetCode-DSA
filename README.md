@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2058-concatenation-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
