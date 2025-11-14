@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0290-word-pattern) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Two Pointers
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0969-number-of-recent-calls](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
