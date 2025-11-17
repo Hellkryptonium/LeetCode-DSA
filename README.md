@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 ## Memoization
