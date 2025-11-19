@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [2621-find-xor-beauty-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2621-find-xor-beauty-of-array) |
 ## Queue
