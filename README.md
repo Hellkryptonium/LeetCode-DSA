@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0945-snakes-and-ladders](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1036-rotting-oranges) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0806-domino-and-tromino-tiling) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -699,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0901-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
