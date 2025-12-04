@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0595-big-countries) |
+| [1251-average-selling-price](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1280-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
