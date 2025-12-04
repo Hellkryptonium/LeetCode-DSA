@@ -4,13 +4,12 @@ public:
         priority_queue<int, vector<int>, greater<int>> minHeap;
 
         for(int num : nums) {
-            if(minHeap.size() < k) {
-                minHeap.push(num);
-            } else if(num > minHeap.top()) {
+            minHeap.push(num);
+            if(minHeap.size() > k) {
                 minHeap.pop();
-                minHeap.push(num);
             }
         }
+
         return minHeap.top();
     }
 };
