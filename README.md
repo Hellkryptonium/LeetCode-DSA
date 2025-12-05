@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2058-concatenation-of-array) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0231-power-of-two) |
