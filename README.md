@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
