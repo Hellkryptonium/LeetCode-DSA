@@ -1,19 +1,16 @@
 class Solution {
 public:
-    bool palin(string s) {
-        int l = 0, r = s.size()-1;
-        while(l<=r) {
-            if(s[l++] != s[r--]) {
-                return false;
-            }
-        }
-        return true;
-    }
-
     bool isPalindrome(int x) {
         if(x < 0) return false;
-        string n = to_string(x);
+        
+        long long n = x;
+        long long rev = 0;
+        while(n != 0) {
+            long long digit = n % 10;
+            rev = rev * 10 + digit;
+            n /= 10;
+        }
 
-        return palin(n);
+        return (rev == x);
     }
 };
