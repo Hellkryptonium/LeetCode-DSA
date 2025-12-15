@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
