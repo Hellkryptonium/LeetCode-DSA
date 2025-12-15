@@ -1,17 +1,29 @@
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) {
-        vector<int> dp(amount+1, amount+1);
-        dp[0] = 0;
+    vector<int> memo;
 
-        for(int i=1; i<=amount; i++) {
-            for(int coin : coins) {
-                if(i-coin >= 0) {
-                    dp[i] = min(dp[i], 1+dp[i-coin]);
-                }
-            }
+    int solve(int amount, vector<int>& coins) {
+        if(amount == 0) return 0;
+        if(amount < 0) return 1e9;
+
+        if(memo[amount] != -1) {
+            return memo[amount];
         }
 
-        return (dp[amount] == amount+1)? -1 : dp[amount];
+        int ans = 1e9;
+
+        for(int coin : coins) {
+            ans = min(ans, 1 + solve(amount-coin, coins));
+        }
+
+        memo[amount]=ans;
+        return ans;
+    }
+
+    int coinChange(vector<int>& coins, int amount) {
+        memo.resize(amount+1, -1);
+
+        int res = solve(amount, coins);
+        return (res >= 1e9) ? -1 : res;
     }
 };
