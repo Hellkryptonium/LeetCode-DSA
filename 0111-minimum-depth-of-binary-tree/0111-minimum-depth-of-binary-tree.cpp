@@ -22,6 +22,6 @@ public:
             return 1 + minDepth(root->left);
         }
 
-        return min(minDepth(root->right), minDepth(root->left)) + 1;
+        return 1+min(minDepth(root->right), minDepth(root->left));
     }
 };
