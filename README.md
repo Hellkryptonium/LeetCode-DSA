@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0289-game-of-life) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0969-number-of-recent-calls) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Geometry
 |  |
