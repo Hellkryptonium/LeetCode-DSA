@@ -9,43 +9,43 @@
  * };
  */
 class Solution {
-public:
-    ListNode* reverseList(ListNode* head) {
+private:
+    ListNode* reverse(ListNode* head) {
         ListNode* prev = nullptr;
-        while(head != nullptr) {
-            ListNode* nextNode = head->next;
-            head->next = prev;
-            prev = head;
-            head=nextNode;
+        ListNode* curr = head;
+        while(curr) {
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
         return prev;
     }
+public:
     bool isPalindrome(ListNode* head) {
         if(!head || !head->next) return true;
 
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while(fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
+        while(fast && fast->next) {
+            slow=slow->next;
+            fast=fast->next->next;
         }
 
-        ListNode* secondHalf = reverseList(slow);
-
+        ListNode* secondHalf = reverse(slow);
         ListNode* firstHalf = head;
-        ListNode* tempSecond = secondHalf;
-        bool isPal = true;
+        ListNode* tempSecondHalf = secondHalf;
 
-        while(tempSecond != nullptr) {
-            if(firstHalf->val != tempSecond->val) {
-                isPal = false;
-                break;
+        while(tempSecondHalf) {
+            if(tempSecondHalf->val != firstHalf->val) {
+                return false;
             }
+            tempSecondHalf=tempSecondHalf->next;
             firstHalf = firstHalf->next;
-            tempSecond = tempSecond->next;
         }
 
-        return isPal;
+        return true;
+
     }
 };
