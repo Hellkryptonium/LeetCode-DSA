@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0139-word-break) |
