@@ -10,21 +10,20 @@
  * };
  */
 class Solution {
-private:
+public:
     TreeNode* build(vector<int>& nums, int i, int j) {
         if(i > j) return nullptr;
-        
-        int mid = i + (j-i)/2;
+
+        int mid = i + (j - i)/2;
 
         TreeNode* root = new TreeNode(nums[mid]);
 
-        root->left = build(nums,i,mid-1);
-        root->right = build(nums,mid+1,j);
+        root->left = build(nums, i, mid-1);
+        root->right = build(nums, mid+1, j);
 
         return root;
     }
-public:
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-       return build(nums,0,nums.size()-1);
+        return build(nums, 0, nums.size()-1);
     }
 };
