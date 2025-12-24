@@ -12,10 +12,11 @@ var promiseAll = function(functions) {
         let count = 0;
         let result = [];
 
-        functions.forEach((asyncFn, index) => {
+        for(let i=0; i<functions.length; i++) {
+            let asyncFn = functions[i];
             asyncFn()
                 .then(value => {
-                    result[index] = value;
+                    result[i] = value;
                     count++;
                     if(count === functions.length) {
                         resolve(result);
@@ -23,9 +24,8 @@ var promiseAll = function(functions) {
                 })
                 .catch(error => {
                     reject(error);
-                });
-
-        })
+                })
+        }
     })
 };
 
