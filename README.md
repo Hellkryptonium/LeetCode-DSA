@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2050-count-good-numbers) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0338-counting-bits) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0433-minimum-genetic-mutation) |
