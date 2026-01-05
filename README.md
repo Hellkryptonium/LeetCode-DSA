@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2621-find-xor-beauty-of-array) |
 | [2636-maximum-subsequence-score](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2636-maximum-subsequence-score) |
+| [2784-check-if-array-is-good](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2636-maximum-subsequence-score) |
+| [2784-check-if-array-is-good](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
