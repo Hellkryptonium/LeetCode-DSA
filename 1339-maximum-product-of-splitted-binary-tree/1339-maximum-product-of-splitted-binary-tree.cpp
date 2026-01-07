@@ -22,13 +22,13 @@ private:
     }
 public:
     int maxProduct(TreeNode* root) {
-        constexpr int kMod = 1'000'000'007;
-        long ans = 0;
+        constexpr long kMod = 1'000'000'007;
         vector<int> allSum;
-        const long totalSum = treeSum(root, allSum);
+        long ans = 0;
+        long totalSum = treeSum(root, allSum);
 
-        for(const long s : allSum) {
-            ans = max(ans, s * (totalSum -s));
+        for(const long sum : allSum) {
+            ans = max(ans, sum * (totalSum - sum));
         }
 
         return ans % kMod;
