@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0763-partition-labels) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1036-rotting-oranges) |
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
