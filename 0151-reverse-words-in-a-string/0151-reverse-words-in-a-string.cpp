@@ -3,21 +3,16 @@ public:
     string reverseWords(string s) {
         stringstream ss(s);
         string word;
-        vector<string> words;
-
+        stack<string> st;
         while(ss >> word) {
-            words.push_back(word);
+            st.push(word);
         }
-
-        reverse(words.begin(), words.end());
-
-        string result;
-        for(int i=0; i<words.size(); i++) {
-            result += words[i];
-            if(i != words.size()-1) {
-                result += " ";
-            }
+        string ans = "";
+        while(!st.empty()) {
+            ans += st.top();
+            st.pop();
+            ans += " ";
         }
-        return result;
+        return ans.substr(0, ans.size()-1);
     }
 };
