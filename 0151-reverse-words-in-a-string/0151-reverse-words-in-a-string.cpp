@@ -11,8 +11,10 @@ public:
         while(!st.empty()) {
             ans += st.top();
             st.pop();
-            ans += " ";
+            if(st.empty() == false) {
+                ans += " ";
+            }
         }
-        return ans.substr(0, ans.size()-1);
+        return ans;
     }
 };
