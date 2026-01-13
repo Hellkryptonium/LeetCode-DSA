@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2636-maximum-subsequence-score) |
 | [2784-check-if-array-is-good](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3453-separate-squares-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3453-separate-squares-i) |
 ## Greedy
 |  |
 | ------- |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3453-separate-squares-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3453-separate-squares-i) |
 ## Sliding Window
 |  |
 | ------- |
