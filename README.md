@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1280-students-and-examinations) |
+| [1484-group-sold-products-by-the-date](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
