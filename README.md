@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0394-decode-string) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0622-design-circular-queue) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0622-design-circular-queue) |
