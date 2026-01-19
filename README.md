@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0399-evaluate-division) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
