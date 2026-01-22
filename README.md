@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -896,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2636-maximum-subsequence-score) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -905,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Interactive
 |  |
 | ------- |
