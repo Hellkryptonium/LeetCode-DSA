@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0622-design-circular-queue) |
