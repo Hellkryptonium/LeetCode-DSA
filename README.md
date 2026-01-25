@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
