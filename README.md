@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0212-word-search-ii) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -910,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
@@ -1017,5 +1022,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
