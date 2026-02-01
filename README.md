@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1390-four-divisors) |
+| [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2383-add-two-integers) |
 | [2621-find-xor-beauty-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2621-find-xor-beauty-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2235-capitalize-the-title](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2636-maximum-subsequence-score](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2636-maximum-subsequence-score) |
 ## Trie
