@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0502-ipo) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0907-koko-eating-bananas) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
