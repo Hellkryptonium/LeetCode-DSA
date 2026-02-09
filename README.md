@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Database
@@ -949,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
