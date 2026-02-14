@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0799-champagne-tower](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
