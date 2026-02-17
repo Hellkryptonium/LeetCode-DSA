@@ -748,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2621-find-xor-beauty-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2621-find-xor-beauty-of-array) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0401-binary-watch) |
 ## Memoization
 |  |
 | ------- |
