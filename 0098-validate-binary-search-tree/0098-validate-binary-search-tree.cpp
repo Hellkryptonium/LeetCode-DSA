@@ -11,13 +11,14 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* root, long minVal, long maxVal) {
+    bool dfs(TreeNode* root, long minVal, long maxVal) {
         if(!root) return true;
+
         if(root->val <= minVal || root->val >= maxVal) return false;
 
-        return helper(root->left, minVal, root->val) && helper(root->right, root->val, maxVal);
+        return dfs(root->left, minVal, root->val) && dfs(root->right, root->val, maxVal);
     }
     bool isValidBST(TreeNode* root) {
-        return helper(root, LONG_MIN, LONG_MAX);
+        return dfs(root, LONG_MIN, LONG_MAX);
     }
 };
