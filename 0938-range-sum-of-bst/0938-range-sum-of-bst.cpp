@@ -20,8 +20,13 @@ public:
             ans += root->val;
         }
 
-        dfs(root->left, low, high, ans);
-        dfs(root->right, low, high, ans);
+        if(root->val > low) {
+            dfs(root->left, low, high, ans);
+        }
+
+        if(root->val < high) {
+            dfs(root->right, low, high, ans);
+        }
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
         int ans = 0;
