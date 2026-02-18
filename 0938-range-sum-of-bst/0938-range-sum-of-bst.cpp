@@ -11,23 +11,21 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, int &ans, int low, int high) {
-        if(root == nullptr) return;
+    void dfs(TreeNode* root, int low, int high, int &ans) {
+        if(root == nullptr) {
+            return;
+        }
 
-        if(root->val <= high && root->val >= low) {
+        if(root->val >= low && root->val <= high) {
             ans += root->val;
         }
 
-        if(root->val > low) {
-            dfs(root->left, ans, low, high);
-        }
-        if(root->val < high) {
-            dfs(root->right, ans, low, high);
-        }  
+        dfs(root->left, low, high, ans);
+        dfs(root->right, low, high, ans);
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
         int ans = 0;
-        dfs(root, ans, low, high);
+        dfs(root, low, high, ans);
         return ans;
     }
 };
