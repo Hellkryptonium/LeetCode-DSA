@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0742-to-lower-case) |
+| [0761-special-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0761-special-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
+| [0761-special-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
