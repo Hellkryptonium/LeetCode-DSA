@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [2102-find-the-middle-index-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2102-find-the-middle-index-in-array) |
