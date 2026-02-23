@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0868-binary-gap) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2621-find-xor-beauty-of-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Queue
@@ -1138,4 +1141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
