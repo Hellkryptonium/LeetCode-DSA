@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0945-snakes-and-ladders](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1036-rotting-oranges) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0761-special-binary-string) |
+| [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0427-construct-quad-tree) |
 | [0761-special-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0502-ipo) |
+| [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1031,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1091,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0149-max-points-on-a-line) |
+| [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Bucket Sort
