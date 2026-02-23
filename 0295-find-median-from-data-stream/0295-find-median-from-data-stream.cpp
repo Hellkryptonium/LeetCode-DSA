@@ -1,32 +1,35 @@
 class MedianFinder {
 public:
-    priority_queue<int> maxHeap; // smaller half
-    priority_queue<int, vector<int>, greater<int>> minHeap; // larger half
-
+    priority_queue<int> left_max_heap; //max heap
+    priority_queue<int, vector<int>, greater<int>> right_min_heap; //min heap
     MedianFinder() {}
     
     void addNum(int num) {
-        maxHeap.push(num);
 
-        if(!minHeap.empty() && maxHeap.top() > minHeap.top()) {
-            int val = maxHeap.top(); maxHeap.pop();
-            minHeap.push(val);
-        }
+    if(left_max_heap.empty() || num <= left_max_heap.top())
+        left_max_heap.push(num);
+    else
+        right_min_heap.push(num);
 
-        if(maxHeap.size() > minHeap.size() + 1) {
-            minHeap.push(maxHeap.top());
-            maxHeap.pop();
-        } else if(minHeap.size() > maxHeap.size()) {
-            maxHeap.push(minHeap.top());
-            minHeap.pop();
-        }
+    // balance heaps
+    if(left_max_heap.size() > right_min_heap.size() + 1) {
+        right_min_heap.push(left_max_heap.top());
+        left_max_heap.pop();
     }
+    else if(right_min_heap.size() > left_max_heap.size()) {
+        left_max_heap.push(right_min_heap.top());
+        right_min_heap.pop();
+    }
+}
     
     double findMedian() {
-        if(minHeap.size() == maxHeap.size()) {
-            return (maxHeap.top() + minHeap.top()) / 2.0;
+        if(left_max_heap.size() == right_min_heap.size()) {
+            //matlab even number elements
+
+            double mean = (left_max_heap.top() + right_min_heap.top()) /2.0;
+            return mean;
         }
-        return maxHeap.top();
+        return left_max_heap.top();
     }
 };
 
