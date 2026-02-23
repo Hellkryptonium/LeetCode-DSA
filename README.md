@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1029-two-city-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3453-separate-squares-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3453-separate-squares-i) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1036-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1895-largest-magic-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
@@ -1024,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0502-ipo) |
 | [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2636-maximum-subsequence-score) |
