@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0965-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0965-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0904-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0965-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
