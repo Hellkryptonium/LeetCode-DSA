@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0871-keys-and-rooms) |
@@ -1105,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0401-binary-watch) |
+| [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |
 | ------- |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
