@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1175,4 +1178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
