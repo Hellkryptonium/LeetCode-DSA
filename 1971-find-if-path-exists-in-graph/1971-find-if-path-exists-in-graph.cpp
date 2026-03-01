@@ -1,32 +1,32 @@
 class Solution {
 public:
-    bool dfs(int src, int dest, vector<bool>& vis, vector<vector<int>>& edges) {
-        if(src == dest) return true;
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        vector<vector<int>> adj(n);
 
-        vis[src] = true;
+        for(auto &e : edges) {
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
+        }
 
-        vector<int> neighbors = edges[src];
+        vector<bool> vis(n, false);
 
-        for(int v : neighbors) {
-            if(!vis[v]) {
-                if(dfs(v, dest, vis, edges)) {
-                    return true;
+        queue<int> q;
+        q.push(source);
+        vis[source] = true;
+
+        while(!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            if(node == destination) return true;
+
+            for(int neighbor : adj[node]) {
+                if(!vis[neighbor]) {
+                    vis[neighbor] = true;
+                    q.push(neighbor);
                 }
             }
         }
-
         return false;
-    }
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<bool> vis(n, false);
-
-        vector<vector<int>> adj(n);
-
-        for (auto &e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]); // undirected graph
-        }
-
-        return dfs(source, destination, vis, adj);
     }
 };
