@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1062,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1268-search-suggestions-system) |
@@ -1171,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
