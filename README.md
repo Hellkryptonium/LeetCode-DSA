@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1187,5 +1189,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
