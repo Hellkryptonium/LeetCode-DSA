@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0101-symmetric-tree) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0101-symmetric-tree) |
@@ -1032,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0173-binary-search-tree-iterator) |
