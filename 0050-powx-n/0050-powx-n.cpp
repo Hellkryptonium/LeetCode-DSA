@@ -13,12 +13,10 @@ public:
     }
     double myPow(double x, int n) {
         long long nn = n;
-
-        if(nn < 0) {
+        if(n < 0) {
             x = 1/x;
             nn = -nn;
         }
-
         return power(x, nn);
     }
 };
