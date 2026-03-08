@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2784-check-if-array-is-good) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [2235-capitalize-the-title](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2058-concatenation-of-array) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1980-find-unique-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Memoization
 |  |
 | ------- |
