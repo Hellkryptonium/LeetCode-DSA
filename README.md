@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [2102-find-the-middle-index-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2102-find-the-middle-index-in-array) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
