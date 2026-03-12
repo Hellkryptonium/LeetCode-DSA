@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2636-maximum-subsequence-score](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2636-maximum-subsequence-score) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Trie
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3453-separate-squares-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Hash Function
 |  |
@@ -1233,8 +1236,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
