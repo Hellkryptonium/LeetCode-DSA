@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2050-count-good-numbers) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0969-number-of-recent-calls) |
+| [1622-fancy-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3454-separate-squares-ii) |
 ## Line Sweep
 |  |
