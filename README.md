@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1677-matrix-diagonal-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
