@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3668-restore-finishing-order) |
 ## Greedy
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
 | ------- |
