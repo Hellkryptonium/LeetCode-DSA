@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
