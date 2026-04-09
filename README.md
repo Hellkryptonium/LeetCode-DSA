@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3668-restore-finishing-order) |
 ## Greedy
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
