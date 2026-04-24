@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
