@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0742-to-lower-case) |
 | [0761-special-binary-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0763-partition-labels) |
+| [0796-rotate-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Segment Tree
 |  |
