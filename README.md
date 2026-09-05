@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3668-restore-finishing-order) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3904-smallest-stable-index-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Hellkryptonium/LeetCode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
